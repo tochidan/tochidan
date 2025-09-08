@@ -1,51 +1,117 @@
-# 👋 Hi, I’m Tochukwu!
+<div align="center">
 
-🎓 **Computer Science Masters Student @ Northumbria University**  
-🔬 Passionate about **Machine Learning, Deep Learning, and Computer Vision**
+👋 Hi, I’m Tochukwu Chidi
+Full-Stack Developer | M.Sc. Computer Science @ Northumbria University
+<p>
+Building beautiful, functional, and scalable web applications from front-end to back-end.
+<br />
+Passionate about clean code, intuitive user experiences, and solving real-world problems.
+</p>
 
----
+</div>
 
-## 🚀 About Me
+🚀 My Tech Stack
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,ts,js,nodejs,python,html,css,tailwind,sql,git" />
+</a>
+</p>
 
-- 🌟 Aspiring researcher and developer in AI and Robotics
-- 🛠️ Skilled in:  
-  **Python**, **Pandas**, **Numpy**, **Flutter**, **Java**, **Dart**, **SQL**, **Git**, **Scikit-learn**, **Matplotlib**
-- 🤖 I love building intelligent systems that solve real-world problems
+<div align="center">
 
----
+Frontend
 
-## 🔥 Featured Project
+Backend
 
-### Detecting Armed Bandits with Computer Vision
+Databases
 
-A computer vision solution trained to detect armed bandits using **Roboflow**, **YOLOv5**, and **Python**.  
-*Harnessing AI to enhance safety and security.*
+Others
 
----
+React
 
-## 🌱 Interests
+Node.js
 
-- 🤖 Robotics
-- 👁️ Computer Vision
-- 📊 Data Science & Analytics
+SQL
 
----
+Git & GitHub
 
-## 🌍 Find Me Online
+TypeScript
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/tochukwu-chidi-9466b6156/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat-square)](https://x.com/tochukwu_chidi_)
+Python
 
----
 
-## 🎮 Fun Facts
 
-- 🎶 I love gospel music
-- 🕹️ Enjoy playing games
-- ✝️ **Meet with JESUS today**
+REST APIs
 
----
+JavaScript (ES6+)
+
+
+
+
+
+
+
+HTML5 & CSS3
+
+
+
+
+
+
+
+Tailwind CSS
+
+
+
+
+
+
+
+</div>
+
+🔥 Featured Project
+<div align="center">
+
+ProjectHub - A Collaborative Project Management Tool
+
+</div>
+
+A full-stack web application designed to help teams manage tasks, track progress, and collaborate seamlessly. Built with a modern tech stack to deliver a fast, responsive, and intuitive user experience.
+
+Frontend: React, TypeScript, Tailwind CSS
+
+Backend: Node.js, Express
+
+Database: PostgreSQL (SQL)
+
+Features: User authentication, real-time updates, task assignments, and project dashboards.
+
+🌱 My Interests
+💻 Building performant and scalable APIs
+
+🎨 Crafting beautiful and responsive user interfaces
+
+☁️ Exploring cloud infrastructure and deployment
+
+📊 Integrating data to create insightful applications
+
+🌍 Find Me Online
+<p align="center">
+<a href="https://www.linkedin.com/in/tochukwu-chidi-9466b6156/" target="blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/tochukwu_chidi" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"/>
+</a>
+</p>
+
+🎮 Fun Facts
+🎶 I love gospel music
+
+🕹️ Enjoy playing games
+
+✝️ Meet with JESUS today
 
 <!--
-**tochidan/tochidan** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+tochidan/tochidan is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
