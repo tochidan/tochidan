@@ -14,12 +14,6 @@
 
 ---
 
-## 🔥 Featured Project: **ProjectHub**  
-A collaborative project management tool built with **React**, **Node.js**, and **PostgreSQL**  
-to help teams manage tasks and track progress seamlessly.  
-
----
-
 ## 🌍 Find Me Online  
 <p align="left">
   <a href="https://www.linkedin.com/in/tochukwu-chidi-9466b6156/" target="_blank">
