@@ -8,7 +8,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,html,css,tailwind,mysql,git" alt="Tech Stack Icons" />
 </p>
 
@@ -21,7 +21,7 @@ to help teams manage tasks and track progress seamlessly.
 ---
 
 ## 🌍 Find Me Online  
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/tochukwu-chidi-9466b6156/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
