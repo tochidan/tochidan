@@ -8,7 +8,7 @@ Full-Stack Developer | M.Sc. Computer Science
 🛠️ Tech Stack
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons%3Fi%3Dreact,ts,js,nodejs,python,html,css,tailwind,sql,git" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,html,css,tailwind,sql,git" />
 </a>
 </p>
 
