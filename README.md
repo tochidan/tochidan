@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # 👋 Hi, I’m **Tochukwu Chidi**  
 ### Full-Stack Developer | M.Sc. Computer Science  
@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,html,css,tailwind,sql,git" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,html,css,tailwind,mysql,git" alt="Tech Stack Icons" />
 </p>
 
 ---
