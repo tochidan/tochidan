@@ -26,7 +26,13 @@
 
 ---
 
-🎶 Gospel Music & 🕹️ Gaming Enthusiast  
+## 🎮 Fun Facts
+
+- 🎶 I love gospel music
+
+- 🕹️ Enjoy playing games
+
+- ✝️ **Meet with JESUS today**
 
 </div>
 
